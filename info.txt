@@ -5,3 +5,7 @@ Lion
 Dog
 Tiger
 
+Herbivorous Animals
+Goat
+Sheep
+Cow
